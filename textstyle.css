@@ -1,0 +1,24 @@
+body{
+    background-image:url("./image/William_Shakespeare_by_John_Taylor,_edited (1).jpg");
+    background-repeat: no-repeat;
+}
+
+div{
+    border:2px solid blue;
+    padding: 8px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: blueviolet;
+}
+p{
+    color: antiquewhite;
+    text-indent: 75px;
+    text-align:justify ;
+    letter-spacing: 3px;
+}
+a{
+    text-decoration: solid;
+    color:darkcyan;
+}
